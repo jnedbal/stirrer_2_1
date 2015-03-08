@@ -1393,10 +1393,10 @@
     )
   )
 
-  (module jakub:DF13-4P-1.25H (layer F.Cu) (tedit 54FCCE2C) (tstamp 531A57A7)
+  (module jakub:DF13-4P-1.25H (layer F.Cu) (tedit 54FCCBCA) (tstamp 531A57A7)
     (at 106.68 69.85 270)
     (path /531CD2BB)
-    (fp_text reference JP1 (at -5.842 -3.302 360) (layer F.SilkS)
+    (fp_text reference JP1 (at 0 2.54 270) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value DF13 (at -1.778 -6.858 270) (layer F.SilkS)
